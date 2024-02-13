@@ -1,0 +1,13 @@
+data visualistion
+	find an interesting metric within the existing data
+	make a visualization around this data
+sensor prototype
+	create a prototype bridge sensor
+	explain what it would measure
+	how would this ensure bridge safety
+presentation of plan
+	create a presentation outlineing the current data
+	show how your product would help collect data going forward
+sustained impact
+	how does the data collection planned relate to the existing data
+	is this project sustainable, how much would it cost to implement your plan
